@@ -1,0 +1,62 @@
+1)What are type conversions?
+Type conversions are the process of converting one data type to another in programming languages. 
+In Android, type conversions are important to ensure that the correct data types are used in different parts of the code. 
+For example, converting a string to an integer or vice versa.
+
+2)What is Null Safety?
+Null Safety is a feature in Kotlin that helps to avoid NullPointerException errors. 
+It ensures that variables are not null unless they are explicitly declared as such, 
+preventing runtime errors that can occur when a null value is unexpectedly encountered.
+
+3)Explain Collections of Kotlin
+Collections in Kotlin are a set of classes that provide a way to store and manipulate groups of objects. 
+They include lists, sets, and maps, which can be mutable or immutable. 
+Collections are a fundamental part of programming in Kotlin, and 
+they are often used in Android development to manage data.
+
+4)What is Android Architecture?
+Android architecture refers to the way that Android applications are structured and organized. 
+It includes the different components of an Android application, such as activities, services, and broadcast receivers, 
+as well as the way these components interact with each other.
+
+5)What is Android virtual device?
+An Android Virtual Device (AVD) is a software emulation of an Android device that can be used to test and 
+run Android applications on a computer. AVDs are created using the Android Virtual Device Manager 
+in Android Studio and can be customized to simulate different types of devices with various screen sizes, 
+hardware configurations, and Android versions.
+
+6)What are application components?
+Application components are the building blocks of an Android application. 
+They include activities, services, broadcast receivers, and content providers, 
+which are used to provide functionality and interact with the user and other parts of the system.
+
+7)What is broadcast receiver?
+A broadcast receiver is a component in an Android 
+application that listens for system-wide broadcast messages. 
+It can be used to trigger an action in response to a specific broadcast event, 
+such as receiving a phone call or a text message.
+
+8)Explain widgets.
+Widgets are small graphical user interface (GUI) elements that provide 
+quick access to specific functions or information. In Android, widgets can be added to the home screen or 
+lock screen to display data or provide shortcuts to frequently used features.
+
+9)Explain notification.
+Notifications are messages that are displayed on the 
+Android device to inform the user about events or updates. 
+They can be used to alert the user about incoming calls, text messages, emails, or other notifications.
+
+10)Explain List menu
+List menu is a user interface element that displays a list of options for the user to choose from. 
+It is often used in Android applications to provide a menu of choices for the user, such as selecting a language or a theme.
+
+11)What are Android controls?
+Android controls are user interface elements that are used to interact with the user 
+and provide input and output for an Android application. 
+They include buttons, text fields, checkboxes, radio buttons, and other graphical elements.
+
+12)What are style and themes in Android?
+Styles and themes are used in Android to define the visual appearance of an application. 
+They provide a way to define common styles and apply them to multiple components or activities within an application, 
+making it easier to maintain a consistent look and feel. Styles are used to define the appearance of individual UI elements, 
+while themes are used to apply styles to the entire application or activity.
